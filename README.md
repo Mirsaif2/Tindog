@@ -6,4 +6,4 @@ Its a dating web page for the dogs.Here one can find perfect parter for there pe
 ![Screenshot (9)](https://user-images.githubusercontent.com/95145435/164977437-0e3090b7-2fb9-4c16-b4ae-dc14938bf344.png)
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/95145435/164977429-9d7c65ce-17b0-401f-a587-7a561b8062db.png)
--images.githubusercontent.com/95145435/164977427-379d006e-b332-41e3-901f-a556493d26a8.png)
+
